@@ -1,0 +1,26 @@
+.page-title{
+    color: yellowgreen;
+}
+
+
+.card-title{
+    color: red;
+}
+
+.card-content{
+    color: rgba(111, 152, 202, 0.4);
+}
+.footer{
+    color: darkblue;
+}
+
+body{
+    background-image: url(../img-css/road.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.banner img {
+    width: 600;
+    height: 600;
+}
